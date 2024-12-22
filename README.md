@@ -77,5 +77,7 @@ passenger satisfaction, sentiment analysis, airline industry, customer experienc
 ## VIII  Appendices 
 #### Additional Materials : 
 - [Raw data](https://github.com/Vishwastanwar/CaseStudy_Airlines_Passengers_Sentiment_Analysis/blob/main/Airlines.csv)
-- [Dashboard Image]
+- [Dashboard Image](https://github.com/Vishwastanwar/CaseStudy_Airlines_Passengers_Sentiment_Analysis/blob/main/Dashboard_Image.png)
+- [Live Dashboard](https://app.powerbi.com/groups/me/reports/34cf0273-0765-4110-bfbf-e7f984f44f4a/36e91cbc101593036b45?experience=power-bi)
+
 ## IX. References : [Kaggle](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)
