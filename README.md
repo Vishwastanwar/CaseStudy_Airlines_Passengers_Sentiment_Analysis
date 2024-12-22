@@ -38,7 +38,7 @@ This case study adopts a quantitative approach, using structured passenger feedb
 - Data Cleaning: Organized and standardized feedback data to remove inconsistencies.
 - Data Normalization: Aggregated ratings to present them on a uniform scale.
 #### 4. Sentiment Analysis
-- Tools Used: Power BI for visualization and trend analysis.
+- Tools Used: Power BI for visualization,Python,Mysql,Microsoft Power Point.
 - Analysis Methods: Calculated satisfaction levels, demographics segmentation, and service ratings.
 
 ## IV. Case Study
