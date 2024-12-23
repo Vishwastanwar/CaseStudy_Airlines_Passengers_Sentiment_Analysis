@@ -1,4 +1,5 @@
 # Airline Passenger Satisfaction: A Case Study on Sentiment Analysis
+![image](https://github.com/Vishwastanwar/CaseStudy_Airlines_Passengers_Sentiment_Analysis/blob/main/images.jpeg)
 ## I. Introduction
 In today's highly competitive airline industry, delivering exceptional passenger experiences is crucial for driving customer loyalty, retention, and ultimately, business success. With the rise of social media and online review platforms, passengers are increasingly vocal about their travel experiences, providing airlines with valuable insights into their strengths and weaknesses.
 
